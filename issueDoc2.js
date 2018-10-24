@@ -1,1 +1,3 @@
-Issue Doc 3
+function helloWorld(helloWorld) {
+    console.log('Hello world');
+}
